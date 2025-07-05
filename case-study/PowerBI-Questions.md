@@ -63,8 +63,8 @@ Cancellation rate (~32%) suggests room for operational improvements.
 ---
 
 ### 🛠 Tools Used
-- Power BI (visualizations and dashboards)
-- PostgreSQL (data querying and preparation)
+- Power BI (dashboard creation and visual storytelling)
+- Excel (data cleaning and preparation)
 
 👩‍💻 Created by: Ajmeri Khatun  
 
