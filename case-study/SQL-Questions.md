@@ -101,6 +101,7 @@ WHERE incomplete_rides = 'Yes';
 
 
 👩‍💻 Created by: Ajmeri Khatun
+
 📅 Date: July 2025
 
 
