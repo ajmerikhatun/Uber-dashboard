@@ -41,25 +41,25 @@ Identifies booking trends and peak hours.
 
 ### 📊 Booking Status Breakdown  
 Highlights success rates and cancellations.  
-![Booking Status](dashboard-images/uber_dashboard2.png)
+![Booking Status](dashboard-images/uber_dashboard1.png)
 
 ---
 
 ### 🚗 Top Vehicle Types by Ride Distance  
 Reveals the most-used services based on ride distance.  
-![Top Vehicle Types](dashboard-images/uber_dashboard3.png)
+![Top Vehicle Types](dashboard-images/uber_dashboard2.png)
 
 ---
 
 ### ⭐ Average Customer Ratings by Vehicle Type  
 Measures service quality across vehicle types.  
-![Customer Ratings](dashboard-images/uber_dashboard4.png)
+![Customer Ratings](dashboard-images/uber_dashboard3.png)
 
 ---
 
 ### ❌ Canceled Rides Reasons  
 Shows why customers and drivers cancel rides.  
-![Cancelled Reasons](dashboard-images/uber_dashboard5.png)
+![Cancelled Reasons](dashboard-images/uber_dashboard4.png)
 
 ---
 
