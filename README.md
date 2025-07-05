@@ -31,34 +31,43 @@ To provide stakeholders with:
 - Insights into **customer behavior & satisfaction**  
 - Areas of improvement for **reducing cancellations**  
 
-### 🔑 **Key Visuals (Brief Walkthrough)**  
-- 📈 **Ride Volume Over Time**: Identifies booking trends and peak hours.  
-- 📊 **Booking Status Breakdown**: Highlights success rates and cancellations.  
-- 🚗 **Top Vehicle Types by Ride Distance**: Reveals most-used services.  
-- ⭐ **Customer & Driver Ratings**: Measures service quality.  
-- 💳 **Revenue by Payment Method**: Shows preferred payment options.  
+## 🔑 **Key Visuals (Brief Walkthrough)**  
 
-### 📊 **Business Impact & Insights**
+### 📈 Ride Volume Over Time  
+Identifies booking trends and peak hours.  
+![Ride Volume](dashboard-images/uber_dashboard1.png)
+
+---
+
+### 📊 Booking Status Breakdown  
+Highlights success rates and cancellations.  
+![Booking Status](dashboard-images/uber_dashboard2.png)
+
+---
+
+### 🚗 Top Vehicle Types by Ride Distance  
+Reveals the most-used services based on ride distance.  
+![Top Vehicle Types](dashboard-images/uber_dashboard3.png)
+
+---
+
+### ⭐ Average Customer Ratings by Vehicle Type  
+Measures service quality across vehicle types.  
+![Customer Ratings](dashboard-images/uber_dashboard4.png)
+
+---
+
+### ❌ Canceled Rides Reasons  
+Shows why customers and drivers cancel rides.  
+![Cancelled Reasons](dashboard-images/uber_dashboard5.png)
+
+---
+
+## 📊 **Business Impact & Insights**
 - Cancellation rate (~32%) indicates operational gaps.  
 - *Go Priority* leads in distance covered and ratings.  
 - Cash & Debit Cards dominate payment methods; UPI is underutilized.  
 - Balanced ratings between customers and drivers reflect mutual satisfaction.  
-
----
-
-## 📸 Screenshots
-
-| Ride Volume Over Time                         | Booking Status Breakdown                     |
-|-----------------------------------------------|-----------------------------------------------|
-| ![Ride Volume](dashboard-images/uber_dashboard1.png) | ![Booking Status](dashboard-images/uber_dashboard2.png) |
-
-| Top Vehicle Types by Ride Distance            | Customer Ratings by Vehicle Type             |
-|-----------------------------------------------|-----------------------------------------------|
-| ![Vehicle Types](dashboard-images/uber_dashboard3.png) | ![Customer Ratings](dashboard-images/uber_dashboard4.png) |
-
-| Canceled Rides Reasons                        |                                               |
-|-----------------------------------------------|-----------------------------------------------|
-| ![Cancelled Reasons](dashboard-images/uber_dashboard5.png) |                                               |
 
 ---
 
@@ -68,4 +77,3 @@ To provide stakeholders with:
 📅 July 2025  
 
 ---
-
