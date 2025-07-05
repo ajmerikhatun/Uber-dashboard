@@ -53,7 +53,7 @@ Reveals the most-used services based on ride distance.
 
 ### ⭐ Average Customer Ratings by Vehicle Type  
 Measures service quality across vehicle types.  
-![Customer Ratings](dashboard-images/uber_dashboard3.png)
+![Customer Ratings](dashboard-images/uber_dashboard5.png)
 
 ---
 
